@@ -172,7 +172,6 @@ Research Agent      Visual Agent
 ### 🚀 Cách chạy
 1. Mở file [Visual-Agentic-AI.ipynb](Visual-Agentic-AI.ipynb)
 2. Chạy lần lượt từng cell bằng cách nhấn nút ▶️ Run
-3. **Lưu ý:** Cell đầu tiên sẽ tự động tải YOLO model (~200MB)
 
 ### 💡 Ví dụ sử dụng
 
@@ -253,18 +252,3 @@ Bức ảnh: https://example.com/terrier.jpg"
 ### API Keys
 - `OPENAI_API_KEY` - **Bắt buộc** cho cả hai hệ thống
 - `TAVILY_API_KEY` - Chỉ cần cho Simple Multi-Agent
-
----
-
-## 📄 License
-
-MIT License
-
-## 👥 Đóng góp
-
-Mọi đóng góp đều được chào đón! Vui lòng tạo issue hoặc pull request.
-
----
-
-**Phiên bản:** 0.1.0  
-**Cập nhật:** January 2026
