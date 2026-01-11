@@ -1,0 +1,22 @@
+[project]
+name = "multi-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "arxiv>=2.4.0",
+    "duckduckgo-search>=8.1.1",
+    "ipykernel>=7.1.0",
+    "langchain==0.3.24",
+    "langchain-community>=0.3.23",
+    "langchain-core>=0.3.82",
+    "langchain-openai==0.3.14",
+    "langchain-tavily==0.1.6",
+    "langgraph>=0.3.33",
+    "langgraph-supervisor>=0.0.29",
+    "python-dotenv>=1.2.1",
+    "python-magic>=0.4.27",
+    "ultralytics>=8.3.252",
+    "wikipedia>=1.4.0",
+]
